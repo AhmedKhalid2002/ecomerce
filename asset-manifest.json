@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ecomerce/static/css/main.98c0e882.css",
+    "main.js": "/ecomerce/static/js/main.bfc7aaef.js",
+    "static/media/blog-img-2.jpeg": "/ecomerce/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/ecomerce/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/fa-solid-900.ttf": "/ecomerce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/ecomerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/ecomerce/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/ecomerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/ecomerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/ecomerce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/ecomerce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/ecomerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/ecomerce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/ecomerce/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/freshcart-logo.svg": "/ecomerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/ecomerce/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ecomerce/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/ecomerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecomerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecomerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecomerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecomerce/index.html",
+    "main.98c0e882.css.map": "/ecomerce/static/css/main.98c0e882.css.map",
+    "main.bfc7aaef.js.map": "/ecomerce/static/js/main.bfc7aaef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c0e882.css",
+    "static/js/main.bfc7aaef.js"
+  ]
+}
